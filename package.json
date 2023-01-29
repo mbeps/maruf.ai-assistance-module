@@ -1,0 +1,15 @@
+{
+  "name": "ai-assistance-module",
+  "displayName": "AI Assistance Module",
+  "description": "Contains extensions which provide assistance via AI",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.74.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [ 
+    "publisher.extensionName"
+  ]
+}
